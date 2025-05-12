@@ -1,3 +1,4 @@
-./configure.sh
-./build.sh
-./run.sh
+## To run
+    ./configure.sh
+    ./build.sh
+    ./run.sh
